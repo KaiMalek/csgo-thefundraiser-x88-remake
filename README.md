@@ -3,7 +3,8 @@ CSGO CHEAT (STILL WORKS)
 - WINDOWS ONLY
 
 # Preview
-NO PREVIEW YET
+![image](https://github.com/Kajus14/csgo-thefundraiser-x88-remake/assets/63307449/2f31bb5c-6803-4a3b-a89e-92b9cc8f1d53)
+
 
 ## How to use
 1. Download [SOURCE]([https://github.com/Kajus14/csgo-customhooks-pendelum-old.git](https://github.com/Kajus14/csgo-thefundraiser-x88-remake/archive/refs/heads/master.zip)).
