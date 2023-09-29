@@ -3,6 +3,7 @@ CSGO CHEAT (STILL WORKS)
 - WINDOWS ONLY
 
 # Preview
+https://youtu.be/pyKbSPPJ0Lg?si=c6p3WXMVVSXiyEF3
 ![image](https://github.com/Kajus14/csgo-thefundraiser-x88-remake/assets/63307449/2f31bb5c-6803-4a3b-a89e-92b9cc8f1d53)
 
 
